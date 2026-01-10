@@ -10,7 +10,7 @@ Nothing serious — just vibes, creativity, and small experiments.
 - UI ideas  
 - Testing features  
 - Learning new stuff  
-- Anything I feel like making for fun 😄
+- Anything I feel like making for fun
 
 ## 🚀 Purpose
 
