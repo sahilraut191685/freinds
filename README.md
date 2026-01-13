@@ -27,7 +27,7 @@ A playground to try out whatever comes to mind.
 ## 😎 Notes
 
 This repo changes often — expect random commits, new files, deleted files, and surprises.  
-It’s all part of the fun!
+
 
 ---
 
