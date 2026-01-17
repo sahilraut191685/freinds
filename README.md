@@ -1,4 +1,4 @@
-# 🎉 Fun Project 
+# 🎉 Fun Project (testing)
 
 This repository is created just for **fun, experimenting, learning, and trying random ideas**.  
 Nothing serious — just vibes, creativity, and small experiments.
