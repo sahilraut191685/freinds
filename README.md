@@ -24,9 +24,6 @@ A playground to try out whatever comes to mind.
 - JavaScript  
 - Anything else I feel like trying  
 
-## 😎 Notes
-
-This repo changes often — expect random commits, new files, deleted files, and surprises.  
 
 
 ---
